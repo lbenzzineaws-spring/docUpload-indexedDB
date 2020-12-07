@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "uplaodDocs-app"
+    }
+  },
+  "defaultProject": "uplaodDocs-app",
+  "cli": {
+    "analytics": false
+  }
 }
